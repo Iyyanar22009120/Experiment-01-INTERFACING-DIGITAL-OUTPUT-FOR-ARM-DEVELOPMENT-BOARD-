@@ -83,7 +83,7 @@ The main features of LPC2148 include the following.
 S.Iyyanar
 212222240036
 
-
+```
 #include "main.h"
 
 
@@ -185,6 +185,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  
 }
 #endif 
+```
 
 
 
